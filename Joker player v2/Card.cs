@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -8,6 +8,7 @@ namespace Joker_player_v2
     {
         public string Name { get; set; }
         public string Suit { get; set; }
+        public int Index { get; set; }
         public string write()
         {
             if (Name == "Joker") return $"{Suit} Joker";
