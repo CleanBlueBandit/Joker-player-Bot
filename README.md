@@ -1,6 +1,6 @@
 # Joker Player v2
 
-A C# console application that assists with the card game **Joker** by modelling the deck, validating hands, comparing cards, and (eventually) helping calculate the optimal bet.
+A C# console application that assists (or plays it itself) with the card game **Joker** by modelling the deck, validating hands, comparing cards, and (eventually) helping calculate the optimal bet.
 
 > **Project Status:** Work in Progress
 
